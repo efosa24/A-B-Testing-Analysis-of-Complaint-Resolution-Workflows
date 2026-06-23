@@ -164,27 +164,6 @@ Potential benefits include:
 
 ---
 
-## Project Structure
-
-```text
-complaint-ab-testing/
-│
-├── data/
-│   └── complaint_ab_test_12000_cases.csv
-│
-├── scripts/
-│   └── complaint_ab_test_analysis.R
-│
-├── outputs/
-│   ├── summary_tables/
-│   ├── charts/
-│   └── statistical_results/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
 ---
 
 ## Technologies Used
